@@ -1,6 +1,107 @@
 {
   "season": 2026,
-  "rounds": [],
+  "rounds": [{
+  "round": 1,
+  "games": [
+    {
+      "date": "2026-03-05",
+      "home": "Broncos",
+      "away": "Roosters",
+      "venue": "Suncorp Stadium",
+      "city": "Brisbane",
+      "state": "QLD",
+      "match_id": "2026-R1-BRI-ROO",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-06",
+      "home": "Rabbitohs",
+      "away": "Dragons",
+      "venue": "Accor Stadium",
+      "city": "Sydney",
+      "state": "NSW",
+      "match_id": "2026-R1-SOU-STI",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-06",
+      "home": "Cowboys",
+      "away": "Sea Eagles",
+      "venue": "Queensland Country Bank Stadium",
+      "city": "Townsville",
+      "state": "QLD",
+      "match_id": "2026-R1-NQL-MAN",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-07",
+      "home": "Warriors",
+      "away": "Titans",
+      "venue": "Go Media Stadium",
+      "city": "Auckland",
+      "state": "NZ",
+      "match_id": "2026-R1-NZW-GLD",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-07",
+      "home": "Panthers",
+      "away": "Dolphins",
+      "venue": "BlueBet Stadium",
+      "city": "Penrith",
+      "state": "NSW",
+      "match_id": "2026-R1-PEN-DOL",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-08",
+      "home": "Raiders",
+      "away": "Storm",
+      "venue": "GIO Stadium",
+      "city": "Canberra",
+      "state": "ACT",
+      "match_id": "2026-R1-CAN-MEL",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-08",
+      "home": "Bulldogs",
+      "away": "Sharks",
+      "venue": "Accor Stadium",
+      "city": "Sydney",
+      "state": "NSW",
+      "match_id": "2026-R1-CBY-CRO",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    },
+    {
+      "date": "2026-03-09",
+      "home": "Eels",
+      "away": "Tigers",
+      "venue": "CommBank Stadium",
+      "city": "Parramatta",
+      "state": "NSW",
+      "match_id": "2026-R1-PAR-WST",
+      "home_score": null,
+      "away_score": null,
+      "result": null
+    }
+  ]
+}
+],
   "schema": {
     "round": "number",
     "date": "YYYY-MM-DD",
