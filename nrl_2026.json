@@ -1,0 +1,17 @@
+{
+  "season": 2026,
+  "rounds": [],
+  "schema": {
+    "round": "number",
+    "date": "YYYY-MM-DD",
+    "home": "string",
+    "away": "string",
+    "venue": "string",
+    "city": "string",
+    "state": "string",
+    "match_id": "string",
+    "home_score": "number|null",
+    "away_score": "number|null",
+    "result": "string|null"
+  }
+}
