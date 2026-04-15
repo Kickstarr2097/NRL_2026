@@ -5,103 +5,500 @@
       "round": 1,
       "games": [
         {
-          "date": "2026-03-05",
-          "home": "Broncos",
-          "away": "Roosters",
-          "venue": "Suncorp Stadium",
-          "city": "Brisbane",
-          "state": "QLD",
-          "match_id": "2026-R1-BRI-ROO",
+          "date": "2026-03-01",
+          "home": "Knights",
+          "away": "Cowboys",
+          "venue": "Allegiant",
+          "city": "Las Vegas",
+          "state": "NV",
+          "match_id": "2026-R1-KNI-COW",
           "home_score": null,
           "away_score": null,
           "result": null
         },
         {
-          "date": "2026-03-06",
-          "home": "Rabbitohs",
+          "date": "2026-03-01",
+          "home": "Bulldogs",
           "away": "Dragons",
-          "venue": "Accor Stadium",
-          "city": "Sydney",
-          "state": "NSW",
-          "match_id": "2026-R1-SOU-STI",
+          "venue": "Allegiant",
+          "city": "Las Vegas",
+          "state": "NV",
+          "match_id": "2026-R1-BUL-DRA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-05",
+          "home": "Storm",
+          "away": "Eels",
+          "venue": "AAMI",
+          "city": "Melbourne",
+          "state": "VIC",
+          "match_id": "2026-R1-STO-EEL",
           "home_score": null,
           "away_score": null,
           "result": null
         },
         {
           "date": "2026-03-06",
-          "home": "Cowboys",
-          "away": "Sea Eagles",
-          "venue": "Queensland Country Bank Stadium",
-          "city": "Townsville",
-          "state": "QLD",
-          "match_id": "2026-R1-NQL-MAN",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-03-07",
           "home": "Warriors",
-          "away": "Titans",
-          "venue": "Go Media Stadium",
+          "away": "Roosters",
+          "venue": "Go Media",
           "city": "Auckland",
           "state": "NZ",
-          "match_id": "2026-R1-NZW-GLD",
+          "match_id": "2026-R1-WAR-ROO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-06",
+          "home": "Broncos",
+          "away": "Panthers",
+          "venue": "Suncorp",
+          "city": "Brisbane",
+          "state": "QLD",
+          "match_id": "2026-R1-BRO-PAN",
           "home_score": null,
           "away_score": null,
           "result": null
         },
         {
           "date": "2026-03-07",
-          "home": "Panthers",
-          "away": "Dolphins",
-          "venue": "BlueBet Stadium",
-          "city": "Penrith",
-          "state": "NSW",
-          "match_id": "2026-R1-PEN-DOL",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-03-08",
-          "home": "Raiders",
-          "away": "Storm",
-          "venue": "GIO Stadium",
-          "city": "Canberra",
-          "state": "ACT",
-          "match_id": "2026-R1-CAN-MEL",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-03-08",
-          "home": "Bulldogs",
-          "away": "Sharks",
-          "venue": "Accor Stadium",
+          "home": "Sharks",
+          "away": "Titans",
+          "venue": "PointsBet",
           "city": "Sydney",
           "state": "NSW",
-          "match_id": "2026-R1-CBY-CRO",
+          "match_id": "2026-R1-SHA-TIT",
           "home_score": null,
           "away_score": null,
           "result": null
         },
         {
-          "date": "2026-03-09",
-          "home": "Eels",
-          "away": "Tigers",
-          "venue": "CommBank Stadium",
-          "city": "Parramatta",
+          "date": "2026-03-07",
+          "home": "Sea Eagles",
+          "away": "Raiders",
+          "venue": "4 Pines",
+          "city": "Sydney",
           "state": "NSW",
-          "match_id": "2026-R1-PAR-WST",
+          "match_id": "2026-R1-SEA-RAI",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-08",
+          "home": "Dolphins",
+          "away": "Rabbitohs",
+          "venue": "Suncorp",
+          "city": "Brisbane",
+          "state": "QLD",
+          "match_id": "2026-R1-DOL-RAB",
           "home_score": null,
           "away_score": null,
           "result": null
         }
-      ]
+      ],
+      "bye": ["Tigers"]
     },
+
+    {
+      "round": 2,
+      "games": [
+        {
+          "date": "2026-03-12",
+          "home": "Panthers",
+          "away": "Warriors",
+          "venue": "BlueBet",
+          "city": "Penrith",
+          "state": "NSW",
+          "match_id": "2026-R2-PAN-WAR",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-13",
+          "home": "Rabbitohs",
+          "away": "Sea Eagles",
+          "venue": "Accor",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R2-RAB-SEA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-13",
+          "home": "Cowboys",
+          "away": "Storm",
+          "venue": "QCB",
+          "city": "Townsville",
+          "state": "QLD",
+          "match_id": "2026-R2-COW-STO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-14",
+          "home": "Titans",
+          "away": "Broncos",
+          "venue": "Cbus",
+          "city": "Gold Coast",
+          "state": "QLD",
+          "match_id": "2026-R2-TIT-BRO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-14",
+          "home": "Roosters",
+          "away": "Dolphins",
+          "venue": "Allianz",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R2-ROO-DOL",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-15",
+          "home": "Dragons",
+          "away": "Knights",
+          "venue": "WIN",
+          "city": "Wollongong",
+          "state": "NSW",
+          "match_id": "2026-R2-DRA-KNI",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        }
+      ],
+      "bye": ["Bulldogs", "Eels", "Raiders", "Sharks", "Tigers"]
+    },
+
+    {
+      "round": 3,
+      "games": [
+        {
+          "date": "2026-03-19",
+          "home": "Eels",
+          "away": "Roosters",
+          "venue": "CommBank",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R3-EEL-ROO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-20",
+          "home": "Broncos",
+          "away": "Rabbitohs",
+          "venue": "Suncorp",
+          "city": "Brisbane",
+          "state": "QLD",
+          "match_id": "2026-R3-BRO-RAB",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-20",
+          "home": "Storm",
+          "away": "Sharks",
+          "venue": "AAMI",
+          "city": "Melbourne",
+          "state": "VIC",
+          "match_id": "2026-R3-STO-SHA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-21",
+          "home": "Sea Eagles",
+          "away": "Titans",
+          "venue": "4 Pines",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R3-SEA-TIT",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-21",
+          "home": "Cowboys",
+          "away": "Bulldogs",
+          "venue": "QCB",
+          "city": "Townsville",
+          "state": "QLD",
+          "match_id": "2026-R3-COW-BUL",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-22",
+          "home": "Warriors",
+          "away": "Dragons",
+          "venue": "Go Media",
+          "city": "Auckland",
+          "state": "NZ",
+          "match_id": "2026-R3-WAR-DRA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        }
+      ],
+      "bye": ["Knights", "Panthers", "Raiders", "Tigers", "Dolphins"]
+    },
+
+    {
+      "round": 4,
+      "games": [
+        {
+          "date": "2026-03-26",
+          "home": "Panthers",
+          "away": "Cowboys",
+          "venue": "BlueBet",
+          "city": "Penrith",
+          "state": "NSW",
+          "match_id": "2026-R4-PAN-COW",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-27",
+          "home": "Rabbitohs",
+          "away": "Storm",
+          "venue": "Accor",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R4-RAB-STO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-27",
+          "home": "Sharks",
+          "away": "Warriors",
+          "venue": "PointsBet",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R4-SHA-WAR",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-28",
+          "home": "Dragons",
+          "away": "Broncos",
+          "venue": "WIN",
+          "city": "Wollongong",
+          "state": "NSW",
+          "match_id": "2026-R4-DRA-BRO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-28",
+          "home": "Titans",
+          "away": "Eels",
+          "venue": "Cbus",
+          "city": "Gold Coast",
+          "state": "QLD",
+          "match_id": "2026-R4-TIT-EEL",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-03-29",
+          "home": "Roosters",
+          "away": "Sea Eagles",
+          "venue": "Allianz",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R4-ROO-SEA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        }
+      ],
+      "bye": ["Bulldogs", "Knights", "Raiders", "Tigers", "Dolphins"]
+    },
+
+    {
+      "round": 5,
+      "games": [
+        {
+          "date": "2026-04-02",
+          "home": "Eels",
+          "away": "Panthers",
+          "venue": "CommBank",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R5-EEL-PAN",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-03",
+          "home": "Broncos",
+          "away": "Cowboys",
+          "venue": "Suncorp",
+          "city": "Brisbane",
+          "state": "QLD",
+          "match_id": "2026-R5-BRO-COW",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-03",
+          "home": "Storm",
+          "away": "Sea Eagles",
+          "venue": "AAMI",
+          "city": "Melbourne",
+          "state": "VIC",
+          "match_id": "2026-R5-STO-SEA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-04",
+          "home": "Warriors",
+          "away": "Titans",
+          "venue": "Go Media",
+          "city": "Auckland",
+          "state": "NZ",
+          "match_id": "2026-R5-WAR-TIT",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-04",
+          "home": "Sharks",
+          "away": "Rabbitohs",
+          "venue": "PointsBet",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R5-SHA-RAB",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-05",
+          "home": "Dragons",
+          "away": "Dolphins",
+          "venue": "WIN",
+          "city": "Wollongong",
+          "state": "NSW",
+          "match_id": "2026-R5-DRA-DOL",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        }
+      ],
+      "bye": ["Bulldogs", "Knights", "Raiders", "Roosters", "Tigers"]
+    },
+
+    {
+      "round": 6,
+      "games": [
+        {
+          "date": "2026-04-09",
+          "home": "Panthers",
+          "away": "Storm",
+          "venue": "BlueBet",
+          "city": "Penrith",
+          "state": "NSW",
+          "match_id": "2026-R6-PAN-STO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-10",
+          "home": "Rabbitohs",
+          "away": "Warriors",
+          "venue": "Accor",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R6-RAB-WAR",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-10",
+          "home": "Cowboys",
+          "away": "Sharks",
+          "venue": "QCB",
+          "city": "Townsville",
+          "state": "QLD",
+          "match_id": "2026-R6-COW-SHA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Titans",
+          "away": "Dragons",
+          "venue": "Cbus",
+          "city": "Gold Coast",
+          "state": "QLD",
+          "match_id": "2026-R6-TIT-DRA",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-11",
+          "home": "Sea Eagles",
+          "away": "Roosters",
+          "venue": "4 Pines",
+          "city": "Sydney",
+          "state": "NSW",
+          "match_id": "2026-R6-SEA-ROO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        },
+        {
+          "date": "2026-04-12",
+          "home": "Dolphins",
+          "away": "Broncos",
+          "venue": "Suncorp",
+          "city": "Brisbane",
+          "state": "QLD",
+          "match_id": "2026-R6-DOL-BRO",
+          "home_score": null,
+          "away_score": null,
+          "result": null
+        }
+      ],
+      "bye": ["Bulldogs", "Knights", "Raiders", "Eels", "Tigers"]
+    },
+
     {
       "round": 7,
       "games": [
@@ -109,10 +506,10 @@
           "date": "2026-04-16",
           "home": "Cowboys",
           "away": "Sea Eagles",
-          "venue": "Queensland Country Bank Stadium",
+          "venue": "QCB",
           "city": "Townsville",
           "state": "QLD",
-          "match_id": "2026-R7-NQL-MAN",
+          "match_id": "2026-R7-COW-SEA",
           "home_score": null,
           "away_score": null,
           "result": null
@@ -121,22 +518,10 @@
           "date": "2026-04-17",
           "home": "Raiders",
           "away": "Storm",
-          "venue": "GIO Stadium",
+          "venue": "GIO",
           "city": "Canberra",
           "state": "ACT",
-          "match_id": "2026-R7-CAN-MEL",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-04-17",
-          "home": "Dolphins",
-          "away": "Panthers",
-          "venue": "TIO Stadium",
-          "city": "Darwin",
-          "state": "NT",
-          "match_id": "2026-R7-DOL-PEN",
+          "match_id": "2026-R7-RAI-STO",
           "home_score": null,
           "away_score": null,
           "result": null
@@ -144,77 +529,7 @@
         {
           "date": "2026-04-17",
           "home": "Warriors",
-          "away": "Titans",
-          "venue": "Go Media Stadium",
-          "city": "Auckland",
-          "state": "NZ",
-          "match_id": "2026-R7-NZW-GLD",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-04-18",
-          "home": "Rabbitohs",
-          "away": "Dragons",
-          "venue": "Accor Stadium",
-          "city": "Sydney",
-          "state": "NSW",
-          "match_id": "2026-R7-SOU-STI",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-04-18",
-          "home": "Wests Tigers",
           "away": "Broncos",
-          "venue": "Campbelltown Sports Stadium",
-          "city": "Sydney",
-          "state": "NSW",
-          "match_id": "2026-R7-WST-BRI",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-04-18",
-          "home": "Roosters",
-          "away": "Knights",
-          "venue": "Allianz Stadium",
-          "city": "Sydney",
-          "state": "NSW",
-          "match_id": "2026-R7-SYD-NEW",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        },
-        {
-          "date": "2026-04-18",
-          "home": "Eels",
-          "away": "Bulldogs",
-          "venue": "CommBank Stadium",
-          "city": "Parramatta",
-          "state": "NSW",
-          "match_id": "2026-R7-PAR-CBY",
-          "home_score": null,
-          "away_score": null,
-          "result": null
-        }
-      ]
-    }
-  ],
-  "schema": {
-    "round": "number",
-    "date": "YYYY-MM-DD",
-    "home": "string",
-    "away": "string",
-    "venue": "string",
-    "city": "string",
-    "state": "string",
-    "match_id": "string",
-    "home_score": "number|null",
-    "away_score": "number|null",
-    "result": "string|null"
-  }
-}
+          "venue": "Go Media",
+          "city": "Auckland",
+          "state
