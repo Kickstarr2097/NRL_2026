@@ -498,9 +498,10 @@
       ],
       "bye": ["Bulldogs", "Knights", "Raiders", "Eels", "Tigers"]
     },
-{
-  "round": 7,
-  "games": [
+
+    {
+      "round": 7,
+      "games": [
     {
       "date": "2026-04-16",
       "home": "Cowboys",
